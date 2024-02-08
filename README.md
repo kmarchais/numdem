@@ -1,5 +1,5 @@
 # numdem
-Particle simulation made with numpy
+Particle simulation made with numpy inspired from [Rhett Allain's 'Dot Physics' video](https://www.youtube.com/watch?v=jEaAaqgw2tA)
 
 ![two_particles](https://github.com/kmarchais/numdem/assets/22714778/7c1c82d2-5ba0-46a5-8846-0098f09b11ab)
 
