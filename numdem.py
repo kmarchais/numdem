@@ -38,9 +38,9 @@ particle_type = np.dtype(
 pos = [
     (0.0, 0.0, 0.0),
     (4 * R, 2 * R, 0.0),
-    (-3 * R, 0.0, 0.0),
-    (6 * R, 0.0, 0.0),
-    (0.0, 0.0, 4.0 * R),
+    # (-3 * R, 0.0, 0.0),
+    # (6 * R, 0.0, 0.0),
+    # (0.0, 0.0, 4.0 * R),
 ]
 particles = np.zeros(shape=len(pos), dtype=particle_type)
 particles["pos"] = pos
