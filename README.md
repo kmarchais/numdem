@@ -1,7 +1,7 @@
 # numdem
 Particle simulation made with numpy inspired from [Rhett Allain's 'Dot Physics' video](https://www.youtube.com/watch?v=jEaAaqgw2tA)
 
-<img src="https://github.com/kmarchais/numdem/assets/22714778/3fdd4c5d-6925-4263-bcd6-430a10aeddeb" width="100%"/>
+<img src="https://github.com/kmarchais/numdem/assets/22714778/6fdbff9a-1388-48ab-9f25-b5e68f3ab649" width="100%"/>
 
 ![two_particles](https://github.com/kmarchais/numdem/assets/22714778/7c1c82d2-5ba0-46a5-8846-0098f09b11ab)
 
